@@ -4,7 +4,7 @@
 
 把生活照片转译成白纸上的小幅手绘，保留记忆点，以大量留白与少量诗性文字重新组织画面。
 
-**[快速开始](#start)** · **[下载与安装](#install)** · **[完整规则](SKILL.md)** · **[全部视觉 Skills](https://github.com/dacnay816y62-hub/cinema-dna-21x9x3/blob/main/docs/FANTASY-COLLECTION.md)**
+**[快速开始](#start)** · **[下载与安装](#install)** · **[完整规则](SKILL.md)** · **[全部视觉 Skills](https://github.com/dacnay816y62-hub?tab=repositories)**
 
 | 视觉示例 01 | 视觉示例 02 |
 | :---: | :---: |
@@ -218,4 +218,4 @@ MIT
 
 **让想象先被看见。** 将视觉判断与创作流程整理成可以继续使用的方法。
 
-**[浏览全部视觉 Skills](https://github.com/dacnay816y62-hub/cinema-dna-21x9x3/blob/main/docs/FANTASY-COLLECTION.md)** · [Street Photo Illustration](https://github.com/dacnay816y62-hub/street-photo-illustration-skill) · [FANTASY Minimal Magazine](https://github.com/dacnay816y62-hub/FANTASY-Minimal-Magazine)
+**[浏览全部视觉 Skills](https://github.com/dacnay816y62-hub?tab=repositories)** · [Street Photo Illustration](https://github.com/dacnay816y62-hub/street-photo-illustration-skill) · [FANTASY Minimal Magazine](https://github.com/dacnay816y62-hub/FANTASY-Minimal-Magazine)
